@@ -1,1 +1,1 @@
-This will be a repository for smt based points-to analysis. 
+This will be a repository for smt based points-to analysis usin muZ. 
