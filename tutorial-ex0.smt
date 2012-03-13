@@ -1,6 +1,7 @@
 (set-option :dl-compile-with-widening true)
 (set-option :dl-unbound-compressor false)
 
+; do I declare facts as constant functions?
 (declare-fun l0 (Int Int) Bool)
 (declare-fun l1 (Int Int) Bool)
 (set-predicate-representation l0 interval_relation bound_relation)
