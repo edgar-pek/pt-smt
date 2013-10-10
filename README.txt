@@ -1,1 +1,1 @@
-A repositor of IPA - Illinois Points-to Analysis
+A repository for IPA - Illinois Points-to Analysis
